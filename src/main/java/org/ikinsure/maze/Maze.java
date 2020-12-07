@@ -1,4 +1,4 @@
-package org.ikinsure.hard.maze;
+package org.ikinsure.maze;
 
 import java.io.Serializable;
 import java.util.*;

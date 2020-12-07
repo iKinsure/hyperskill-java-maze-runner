@@ -1,4 +1,4 @@
-package org.ikinsure.hard.maze;
+package org.ikinsure.maze;
 
 import java.util.Arrays;
 import java.util.Comparator;
