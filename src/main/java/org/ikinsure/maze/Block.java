@@ -6,8 +6,8 @@ public enum Block {
     WALL(1, "\u2588\u2588"),
     PATH(2, "//");
 
-    protected final int id;
-    protected final String texture;
+    final int id;
+    private final String texture;
 
     Block(int id, String texture) {
         this.id = id;
